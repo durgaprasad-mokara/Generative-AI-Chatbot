@@ -1,5 +1,7 @@
 # Generative AI Chatbot Project
 
+Live Demo: https://durgagenaichata.ccbp.tech/
+
 This project is a web-based generative AI chatbot interface built using HTML, CSS, and JavaScript, with integration of Gradio for the AI functionality.
 
 ## Features
